@@ -16,7 +16,8 @@ function Home(){
    
 
       </div>
-      <About isBackrounImag={true}/> // isBackrounImag oo  trou ah upass gareey
+          {/* // isBackrounImag oo  trou ah upass gareey*/}
+      <About isBackrounImag={true}/> 
       <Contact isBackrounImag={true}/>
 
 
